@@ -13,7 +13,8 @@ to your server
 ## Step 3
 
 1. open `cmd` in `\React`
-2. run command `npm start` to run the react app.
+2. run command `npm install` to install node modules.
+3. run command `npm start` to run the react app.
 
 
 ### Snapshot of Test are in SQL Script folder.
